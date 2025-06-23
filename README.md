@@ -1,8 +1,3 @@
-import React from "react";
-import { Button } from "@/components/ui/button";
-import { Card, CardContent } from "@/components/ui/card";
-import { ShieldCheck, PhoneCall, MapPin } from "lucide-react";
-
 export default function QuietRoomHome() {
   return (
     <div className="min-h-screen bg-gradient-to-br from-blue-100 via-purple-100 to-pink-200 p-6 flex flex-col items-center justify-center">
